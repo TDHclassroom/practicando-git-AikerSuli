@@ -9,8 +9,8 @@ Aprender a clonar repositorios de GitHub y mantener tu repositorio local actuali
    - Ve a tu repositorio en GitHub
    - Edita el archivo `mi-proyecto.md` añadiendo una nueva línea:
      ```
-     ## Última actualización
-     Editado desde GitHub web interface
+      ## Última actualización
+      Editado desde GitHub web interface
      ```
    - Haz commit directamente en GitHub con el mensaje "Actualizar mi-proyecto desde GitHub"
 
