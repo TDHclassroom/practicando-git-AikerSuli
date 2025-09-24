@@ -9,3 +9,6 @@ git commit -m "Primer commit: añadir mi-proyecto.md y documentación inicial"
 
 ## Última actualización
    Editado desde GitHub web interface
+
+   ## Información del proyecto
+   Versión desarrollada en rama feature
